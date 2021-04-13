@@ -23,7 +23,7 @@ Para formar uma palavra, todas as letras que a compõem devem estar presentes no
 
 ## <p id='steps'> 🐾 Passos para execução </p>
 
-Você pode usar a linguagem que preferir, mas seu programa deverá ser executado via terminal. Sua tarefa é implementar um programa que lide com uma jogada do jogo de Montar Palavras, sempre fazendo a melhor jogada possível.
+Sua tarefa é implementar um programa que lide com uma jogada do jogo de Montar Palavras, sempre fazendo a melhor jogada possível.
 
 Para isso você deve:
 
@@ -33,13 +33,14 @@ Para isso você deve:
 
 - Mostrar quais letras não foram utilizadas para formar a melhor palavra. - Tratar quaisquer caracteres especiais como letras não usadas ("pecinhas" que sobraram).
 
-- Escrever no cabeçalho da classe principal do seu programa (via comentário) qual a lógica utilizada no funcionamento do programa. Se alguma estrutura de dados especial tiver sido utilizada e for relevante no funcionamento do algoritmo, citá-la também.
 
 Exemplo:
 
->/*
- A lógica do programa se baseia em percorrer (...)
- A contagem dos pontos é feita no momento em que (...) */
+> /*
+
+> A lógica do programa se baseia em percorrer (...)
+
+> A contagem dos pontos é feita no momento em que (...) */
 
 
 ---
@@ -56,11 +57,12 @@ Exemplo:
 
 - Se ainda assim houver empate, a palavra que vem primeiro em uma organização alfabética deve ser escolhida. Exemplo: "nada" (5 pontos) e "lado" (também 5 pontos) => a palavra “lado” deverá ser escolhida.
 
-- Desconsiderar acentos e diferenças entre letras maiúsculas e minúsculas. - Não copiar nenhuma solução de terceiros. Esperamos que você crie sua própria solução para o problema. Você está livre para acessar a Internet a fim de solucionar dúvidas relacionadas à plataforma para a qual você está desenvolvendo, estruturas de dados que você vier a utilizar, documentação da linguagem, etc.
+- Desconsiderar acentos e diferenças entre letras maiúsculas e minúsculas. 
 
 ---
 
 ## <p id='values'>🧮 Valor das letras </p>
+
 - 1 ponto: E, A, I, O, N, R, T, L, S, U
 - 2 pontos: D, G
 - 3 pontos: B, C, M, P
@@ -77,7 +79,6 @@ Exemplo:
 ---
 
 ## <p id='examples'>📋 Exemplos de entradas e saídas</p>
-
 
 Você deve ler as letras de entrada a partir da entrada padrão e imprimir seu resultado seguindo o formato:
 
