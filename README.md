@@ -1,7 +1,7 @@
 # Monta Palavras 🔠
 
 <div align='center'>
-<img src="./anagram.jpg" width='250'>
+<img src="./anagram.jpg" width='500'>
 
 ---
 <a href='#description'>Sobre o problema</a>|
@@ -83,17 +83,22 @@ Você deve ler as letras de entrada a partir da entrada padrão e imprimir seu r
 
 - Exemplo com palavra encontrada e letras sobrando:
 
-> Digite as letras disponíveis nesta jogada: yibttaaa #
-BATATA, palavra de 8 pontos
-Sobraram: I, Y
+> Digite as letras disponíveis nesta jogada: yibttaaa
+
+> BATATA, palavra de 8 pontos
+
+> Sobraram: I, Y
 
 - Exemplo com palavra encontrada sem sobra de letras:
 
-> Digite as letras disponíveis nesta jogada: bttaaa #
-BATATA, palavra de 8 pontos
+> Digite as letras disponíveis nesta jogada: bttaaa 
+
+> BATATA, palavra de 8 pontos
 
 - Exemplo com nenhuma palavra encontrada:
 
 > Digite as letras disponíveis nesta jogada: o
-Nenhuma palavra encontrada
-Sobraram: O
+
+> Nenhuma palavra encontrada
+
+> Sobraram: O
